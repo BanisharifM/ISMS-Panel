@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.dream-home.ir/"><img src="./ISMS-panel/assets/images/widget/logo.png" alt="Dream Home" width="200"></a>
+  <a href="http://shayanschools.com"><img src="./ISMS-panel/assets/images/widget/logo.png" alt="ISMS Panel" width="200"></a>
   <br>
   ISMS Panel
   <br>
